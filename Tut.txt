@@ -1,0 +1,13 @@
+Redux :- Redux is a complex state management tool, it works with cds. like central data store.
+
+View:- React Component
+
+Action:- collect data from component or api with type and payload.
+
+Reducer:-get data from action and send to store.
+
+Store:- state of complete application.
+
+NOTE 1:- Data store in uni-direction means it will store in a sequence.
+NOTE 2:- Store can be only one in the project. store can not be multiple.
+
